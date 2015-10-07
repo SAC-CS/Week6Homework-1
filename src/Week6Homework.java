@@ -56,3 +56,5 @@ public class Week6Homework
 			}
 
 }
+
+// Good job
